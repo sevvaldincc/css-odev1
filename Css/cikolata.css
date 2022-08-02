@@ -1,0 +1,38 @@
+h1,
+h2 {
+    color: rgb(183, 90, 90)
+}
+body {
+    background-color: rgb(253, 243, 251);
+}
+
+h1,
+h2,
+p,
+ul,
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p,
+ul {
+    font-size: 16px;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+footer {
+    text-align: center;
+}
+
+#center-article {
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+/* Inline, Internal, External olarak hepsini uygulamaya çalıştım. */
